@@ -27,3 +27,7 @@ else:
 	
 
 
+<<<<<<< HEAD
+=======
+print("4 - Nyolcszög")
+>>>>>>> f8bffd58e3d77ac500170e60a8e53373fe85027f
