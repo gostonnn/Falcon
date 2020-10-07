@@ -16,4 +16,4 @@ def nyolcszogKerulet ():
 a=float(input("Nyolcszög oldala [cm]: "))
 return float (8*a) 
 
-print()
+print("4 - Nyolcszög")
