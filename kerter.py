@@ -27,3 +27,14 @@ else:
 	
 #print("4 - Nyolcszög")
 
+def haromszog(Kerulet):
+	a=float(input("Háromszög a oldala<cm>: "))
+	b=float(input("Háromszög b oldala<cm>: "))
+	c=float(input("Háromszög c oldala<cm>: "))
+	return a+b+c
+	print("A háromszög kerülete: cm")
+
+def haromszog(Terulet):
+	am=float=(input("Háromszög a oldal magassága<cm>: "))
+	return am/2
+	print("A háromszög területe: cm2")
