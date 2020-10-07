@@ -6,3 +6,14 @@ def korter(r):
 szam=float(input("szam: "))
 print(korkerulet(szam),"cm")
 print(korter(szam),"cm2")
+
+def nyolcszogTerulet ():
+a=float(input("Nyolcszög oldala [cm]: ")
+r=float(input("Nyolcszög sugara [cm]: ")
+return float (4*a*r)
+
+def nyolcszogKerulet ():
+a=float(input("Nyolcszög oldala [cm]: "))
+return float (8*a) 
+
+print()
